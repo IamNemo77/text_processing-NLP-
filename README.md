@@ -37,4 +37,4 @@ The script uses a step-by-step pipeline to handle user inputs:
 1.  Dictionary Lookup : Houses a pre-defined `inventory` dictionary mapping singular and plural items to specific shelves.
 2.  Tokenization : Breaks down user text into individual words using NLTK's `word_tokenize`.
 3.  POS Tagging : Assigns grammatical tags using `pos_tag` to isolate words tagged as nouns (NN).
-4.  Case Normalization : Converts extracted nouns to lowercase to prevent dictionary matching issues due to uppercase letters.
+4.  Case Normalization : Converts extracted nouns to lowercase to prevent dictionary matching issues due to uppercase letters."# customer-care-chatbot" 
